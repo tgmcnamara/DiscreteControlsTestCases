@@ -3,14 +3,14 @@ These are the synthetic networks tested on for the paper "Two-Stage Homotopy Met
 
 ## Source
 These are modified versions of synthetic networks provided by ARPA-E as part of the Grid Optimization Competition (Challenge 2). The .json data files were modified to remove load shedding, unit commitment, and ramping constraints on generators. The .raw files were modified to remove impedance correction tables. The original cases can be found [here](https://gocompetition.energy.gov/challenges/23/datasets).
-  -CaseA: C2T2N03022, scenario_261
-  -CaseB: C2T2N07000, scenario_001
-  -CaseC: C2S6N11152, scenario_001
-  -CaseD: C2FEN17700, scenario_106
-  -CaseE: C2T3N04200, scenario_009
-  -CaseF: C2T2N12209, scenario_026
-  -CaseG: C2S7N14212, scenario_001
-  -CaseH: C2FEN19402, scenario_006
+- CaseA: C2T2N03022, scenario_261
+- CaseB: C2T2N07000, scenario_001
+- CaseC: C2S6N11152, scenario_001
+- CaseD: C2FEN17700, scenario_106
+- CaseE: C2T3N04200, scenario_009
+- CaseF: C2T2N12209, scenario_026
+- CaseG: C2S7N14212, scenario_001
+- CaseH: C2FEN19402, scenario_006
   
 
 ## Format
